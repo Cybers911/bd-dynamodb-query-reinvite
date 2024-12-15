@@ -26,7 +26,8 @@ We'll be using four key entities in our app:
 The new functionality we are adding focuses on:
 * EventAnnouncements
     * GetEventAnnouncements - retrieves all announcements for a particular event
-    * GetEventAnnouncementsBetweenDates - retrieves announcements posted between specific dates for a particular event
+    * GetEventAnnouncementsBetweenDates - retrieves announcements posted between specific dates for a
+    * particular event
 * Events
     * A paginated API - GetInvitesForEventActivity
 
